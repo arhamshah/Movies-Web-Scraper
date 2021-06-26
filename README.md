@@ -16,7 +16,7 @@
   <a href="#introduction">Introduction</a> •
   <a href="#requirements">Requirements</a>  •
   <a href="#installation">Installation</a> •
-  <a href="#raw-data-is-structured-into-pandas-dataFrame">Final Outcome</a>               •
+  <a href="#final-outcome-raw-data-is-structured-into-pandas-dataFrame">Final Outcome</a>               •
   <a href="#how-it-works">How it Works</a> •
   <a href="#thanks">Thanks ❤</a>
 </p>
@@ -52,7 +52,7 @@ cd Movies-Web-Scraper
 pip install -r requirements.txt
 ``` 
 
-## Raw Data is structured into Pandas DataFrame
+## Final Outcome: Raw Data is structured into Pandas DataFrame
 <a href="#"><img src="https://i.ibb.co/MMHhfjv/DataSet.jpg" alt="Final Outcome DataSet" width="700"></a>
 
 ## How it Works
