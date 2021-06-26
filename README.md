@@ -16,7 +16,7 @@
   <a href="#introduction">Introduction</a> •
   <a href="#requirements">Requirements</a>  •
   <a href="#installation">Installation</a> •
-  <a href="#working-of-bot">Working of Bot</a>               •
+  <a href="#raw-data-is-structured-into-pandas-dataFrame">Final Outcome</a>               •
   <a href="#how-it-works">How it Works</a> •
   <a href="#thanks">Thanks ❤</a>
 </p>
