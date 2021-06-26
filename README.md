@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="https://ibb.co/xGKbBkN" alt="Logo of Program" width="400"></a>
+  <a href="#"><img src="https://i.ibb.co/wCZqPkf/logo-scraper.gif" alt="Logo of Program" width="400"></a>
   <br>
     Web Scraping TMDb Movies Directory
   <br>
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ``` 
 
 ## Raw Data is structured into Pandas DataFrame
-<a href="#"><img src="https://ibb.co/PwyYMbL" alt="Final Outcome DataSet" width="300"></a>
+<a href="#"><img src="https://i.ibb.co/MMHhfjv/DataSet.jpg" alt="Final Outcome DataSet" width="300"></a>
 
 ## How it Works
 - Data from TMDb is extracted using Beautiful Soup.
